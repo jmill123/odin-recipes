@@ -1,0 +1,11 @@
+button {
+    font-size: 32px;
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:lightskyblue;
+    color:dimgray;
+}
+
+h1{
+    font-size: 55px;
+}
